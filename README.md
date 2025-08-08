@@ -1,4 +1,4 @@
-## Selective Reflection Distillation: A Data Curation Strategy for Effective Knowledge Distillation of Large Language Models
+## Less is More: Selective Reflection for Compatible and Efficient Knowledge Distillation in Large Language Models
 
 
 ## 1 Requirements
